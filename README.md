@@ -1,12 +1,20 @@
-- 👋 Hi, I’m @kreiss1 and I received my electrical engineer degree from INSA Lyon and a MsC Degree from Université Claude Bernard Lyon 1 in a double degree program, both in 2016. In 2019, I received the Ph.D. degree in Automatic Control from INSA Lyon. From October 2019 to August 2020, I joined Ecole Centrale de Lyon as a teaching assistant and I became an assistant professor in September 2020 at Université de Lorraine.
-- 👀 I’m interested in control theory, in which I am teaching MSc courses and I am developping methodological research tools. I'm mainly coding small matlab project so as LateX files.
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Jérémie Kreiss
 
-<!---
-kreiss1/kreiss1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Associate Professor (Maître de conférences) in Control Engineering  
+Université de Lorraine, Nancy, France
+
+## Research Interests
+
+My research interests include:
+- Input redundancy
+- Control allocation
+- Input constraints
+- Geometric control theory
+- Constrained optimization
+- Power converter systems
+
+## Selected resources
+
+- [Curriculum Vitae](https://gitlab.univ-lorraine.fr/kreiss1/cv-public)
+- [Publications](https://cv.hal.science/jeremie-kreiss)
+- [Personal website](https://sites.google.com/view/jeremiekreiss/home)
